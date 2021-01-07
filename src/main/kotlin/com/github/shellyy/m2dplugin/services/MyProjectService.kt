@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.shellyy.m2dplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shellyy.m2dplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
